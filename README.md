@@ -8,7 +8,7 @@ Just enter the operator and the 2 numbers then BOOM! you get your Anwser.
 This also assumes you have a GCC compiler.
 
 To install
-`git clone https://github.com/FlickLight/CCalc`
+`git clone https://github.com/SunneyDevs/CCalc`
 
 Then extract and cd into the directory
 
